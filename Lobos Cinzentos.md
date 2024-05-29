@@ -1,1 +1,1 @@
-[[Utghardt]] notoriamente conhecida por ter apenas membros licantropos.
+[[Utghardt]] notoriamente conhecida por ter apenas membros licantropos e dessa forma, diretamente ligada a [[Selûne]].

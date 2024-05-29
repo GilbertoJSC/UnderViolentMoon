@@ -1,0 +1,1 @@
+Um elfo, mago, membro dos #patinhas_peludas  e com um TOC por conhecimento e informação.

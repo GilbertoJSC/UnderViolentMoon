@@ -1,0 +1,1 @@
+Um notório ladino membro dos #patinhas_peludas que agindo sobre a orientação de [[Felgolos]] esteve infiltrado no [[Culto do Dragão]].
