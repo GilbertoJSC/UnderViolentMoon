@@ -1,0 +1,217 @@
+{
+  "main": {
+    "id": "9096521578544135",
+    "type": "split",
+    "children": [
+      {
+        "id": "3ad392511fe63f85",
+        "type": "tabs",
+        "dimension": 48.03299492385787,
+        "children": [
+          {
+            "id": "374186779df9cb82",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Desespero Rubro.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "16befdab3b1e10ec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dorgot.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dfce464347b14de2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Yorek.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "8103d9ab81b74765",
+        "type": "tabs",
+        "dimension": 51.96700507614214,
+        "children": [
+          {
+            "id": "5f20daeb4ca4d6e5",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "731020bf2595babb",
+    "type": "split",
+    "children": [
+      {
+        "id": "0282009a9ffc3b90",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3d7b18176da04a5c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "35bd0fc7efa1ee47",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#divinidade",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f1ded9291f0294a4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f12fef7eb34cd059",
+    "type": "split",
+    "children": [
+      {
+        "id": "239ef41c52c63509",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e3da746fe0e9faa6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "39319100af0fb898",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "85d724fac57d1bf0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "17777052f3a549ff",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "5f20daeb4ca4d6e5",
+  "lastOpenFiles": [
+    "Fay.md",
+    "Dorgot.md",
+    "Yorek.md",
+    "Halaster Blackcloak.md",
+    "Selûne.md",
+    "Pantamileon.md",
+    "Davric.md",
+    "Randolf.md",
+    "Ovlec.md",
+    "Desespero Rubro.md",
+    "Drows.md",
+    "Caranha.md",
+    "Dragão Metálico.md",
+    "Sword Coast.md",
+    "Relíquias.md",
+    "Montes Ancestrais.md",
+    "Lobos Cinzentos.md",
+    "Utghardt.md",
+    "Dragão das Sombras.md",
+    "Glister.md",
+    "Guilda de Xanathar.md",
+    "Felgolos.md",
+    "Taumarik.md",
+    "Severin Siljarin.md",
+    "Shar.md",
+    "Silverymoon.md",
+    "Sylv/Untitled",
+    "Sylv"
+  ]
+}

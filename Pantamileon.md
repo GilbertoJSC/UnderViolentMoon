@@ -1,0 +1,1 @@
+Foi morto pelos membros da [[Desespero Rubro]].
