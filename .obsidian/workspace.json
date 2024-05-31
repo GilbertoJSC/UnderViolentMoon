@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Culto do Dragão.md",
+                "file": "Relíquias.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Relíquias.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Relíquias.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Relíquias.md"
+              }
             }
           }
         ]
@@ -142,41 +146,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "floating": {
-    "id": "b5e782ea83f8b531",
-    "type": "floating",
-    "children": [
-      {
-        "id": "90d626dbb5281e8f",
-        "type": "window",
-        "children": [
-          {
-            "id": "bb10ee93c348d583",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "28f2c406bb17761b",
-                "type": "leaf",
-                "state": {
-                  "type": "graph",
-                  "state": {}
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 340,
-        "y": 0,
-        "width": 600,
-        "height": 672,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "28f2c406bb17761b",
+  "active": "4bb0f5bd6d10ee81",
   "lastOpenFiles": [
+    "Torre das Sete Lamúrias.md",
+    "Skull Island.md",
+    "Relíquias.md",
+    "SkullPort.md",
+    "SkullportMap.jpg",
     "Culto do Dragão.md",
     "Rezmir.md",
     "Londroza.md",
@@ -201,10 +177,6 @@
     "Yorek.md",
     "Halaster Blackcloak.md",
     "Selûne.md",
-    "Pantamileon.md",
-    "Davric.md",
-    "Randolf.md",
-    "Ovlec.md",
     "Sylv/Untitled",
     "Sylv"
   ]
