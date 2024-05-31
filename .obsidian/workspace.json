@@ -4,61 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "3ad392511fe63f85",
+        "id": "9c70c451dfc6da7d",
         "type": "tabs",
-        "dimension": 40.98984771573604,
         "children": [
           {
-            "id": "374186779df9cb82",
+            "id": "4bb0f5bd6d10ee81",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Desespero Rubro.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "16befdab3b1e10ec",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dorgot.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dfce464347b14de2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Yorek.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 2
-      },
-      {
-        "id": "8103d9ab81b74765",
-        "type": "tabs",
-        "dimension": 59.01015228426396,
-        "children": [
-          {
-            "id": "5f20daeb4ca4d6e5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Casa Auvryndar.md",
+                "file": "Culto do Dragão.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,7 +85,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Casa Auvryndar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +101,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Casa Auvryndar.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,9 +122,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Casa Auvryndar.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -191,8 +142,58 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5f20daeb4ca4d6e5",
+  "floating": {
+    "id": "b5e782ea83f8b531",
+    "type": "floating",
+    "children": [
+      {
+        "id": "90d626dbb5281e8f",
+        "type": "window",
+        "children": [
+          {
+            "id": "bb10ee93c348d583",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "28f2c406bb17761b",
+                "type": "leaf",
+                "state": {
+                  "type": "graph",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 340,
+        "y": 0,
+        "width": 600,
+        "height": 672,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "28f2c406bb17761b",
   "lastOpenFiles": [
+    "Culto do Dragão.md",
+    "Rezmir.md",
+    "Londroza.md",
+    "Razzmanir.md",
+    "Whitekeep.md",
+    "Dalagar.md",
+    "Feurax.md",
+    "Untitled.md",
+    "Kal'El.md",
+    "Arpistas.md",
+    "Kal'El",
+    "Ice Spires.md",
+    "Taumarik.md",
+    "Shuun.md",
+    "Teste.md",
+    "Casa Auvryndar.md",
+    "Vanrak Moonstar.md",
     "Drows.md",
     "auvryndar_brazao.png",
     "Fay.md",
@@ -204,21 +205,6 @@
     "Davric.md",
     "Randolf.md",
     "Ovlec.md",
-    "Desespero Rubro.md",
-    "Caranha.md",
-    "Dragão Metálico.md",
-    "Sword Coast.md",
-    "Relíquias.md",
-    "Montes Ancestrais.md",
-    "Lobos Cinzentos.md",
-    "Utghardt.md",
-    "Dragão das Sombras.md",
-    "Glister.md",
-    "Guilda de Xanathar.md",
-    "Felgolos.md",
-    "Taumarik.md",
-    "Severin Siljarin.md",
-    "Shar.md",
     "Sylv/Untitled",
     "Sylv"
   ]

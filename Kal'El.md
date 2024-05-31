@@ -1,0 +1,1 @@
+[[Drows]] que trabalha na taverna The Flagon and the dragon em [[SkullPort]], para quem devemos entregar um pagamento, por ajudar os [[Arpistas]].
